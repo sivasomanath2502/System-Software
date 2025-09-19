@@ -1,0 +1,4 @@
+Original FD dup2
+Duplicated FD dup2
+Original FD dup2
+Duplicated FD dup2
